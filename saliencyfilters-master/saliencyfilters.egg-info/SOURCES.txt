@@ -1,0 +1,6 @@
+README.rst
+setup.py
+saliencyfilters.egg-info/PKG-INFO
+saliencyfilters.egg-info/SOURCES.txt
+saliencyfilters.egg-info/dependency_links.txt
+saliencyfilters.egg-info/top_level.txt
